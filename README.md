@@ -19,7 +19,11 @@ A simple weather application built with HTML, CSS, and JavaScript.
 - CSS
 - JavaScript
 - OpenWeather API
- 
+
+ ##how to use 
+
+open index.html and search the city name
+
 
 
 
